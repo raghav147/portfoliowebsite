@@ -44,4 +44,26 @@
   - Prepared RFI and RFP documents, overseeing product sales, registration, delivery, activation, and managed customer relationships, technical demonstrations and installations ensuring high retention rates and exceptional service
 
 
+### Awards & Honors
+
+- Business Analytics Scholarship Award - Tippie College of Business, 2023
+- Business Analytics Scholarship Award - Tippie College of Business, 2022
+- Leeds Beckett University First Class Honors, 2017
+
+### Professional Memberships
+
+- International Student Advisory Board - University of Iowa, 2022 - 2024
+- Tippie Technology & Innovation Association (Tippie Tech), 2022 - 2023
+- INFORMS Student Chapter, 2022
+
+### Selected Publications
+
+- Sharma, R. (2020). [A Brief Quantitative Analysis on Common Sense Acquisition and Processing Between a Human and an AI Agent](https://www.proquest.com/docview/2424062388/previewPDF/5F41796DE1E447AAPQ/1?accountid=14663&sourcetype=Dissertations%20&%20Theses) (Dissertation/Ph.D. Thesis)
+
+### Leadership Experience
+
+- **Head Teaching Assistant (MKTG:3000)** - Department of Marketing, Tippie College of Business, The University of Iowa; Iowa City, IA (Aug 2022 – May 2024)
+  - Organized various events and presented at Knowledge Café as Vice-President of INFORMS UIOWA Chapter
+  - Advocated for international students' needs and organized impactful programs as GPSG International Affairs Director, fostering a supportive environment for diverse student communities
+  - Served as a member of the International Student Advisory Board, Tippie Tech Association, Quantitative Finance Club and Association of Multicultural Scientists
 
