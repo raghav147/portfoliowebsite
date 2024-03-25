@@ -62,8 +62,15 @@
 
 ### Leadership Experience
 
-- **Head Teaching Assistant (MKTG:3000)** - Department of Marketing, Tippie College of Business, The University of Iowa; Iowa City, IA (Aug 2022 – May 2024)
+- **University Of Iowa; Iowa City, IA (Aug 2022 - May 2024)**
+  - Head Teaching Assistant (MKTG:3000): Department of Marketing, Tippie College of Business, The University of Iowa; Iowa City, IA (Aug 2022 – May 2024)
   - Organized various events and presented at Knowledge Café as Vice-President of INFORMS UIOWA Chapter
   - Advocated for international students' needs and organized impactful programs as GPSG International Affairs Director, fostering a supportive environment for diverse student communities
   - Served as a member of the International Student Advisory Board, Tippie Tech Association, Quantitative Finance Club and Association of Multicultural Scientists
+
+- **Southeast Missouri State University; Cape Girardeau, MO (Dec 2018 – 2019)**
+  - Conducted independent research on Common Sense in Artificial Intelligence
+  - Managed business program and Computer Science Department hosted open day events
+  - As Student Ambassador helped organize and host open-day events and various leadership involvement on campus.
+  - Actively participated as a Student Ambassador, Model United Nations Club Executive Board member at the Nepalese Student Association, Executive Board Member, and Food Committee chair at the International Student Organization
 
